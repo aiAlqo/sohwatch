@@ -95,7 +95,7 @@ if uploaded_file:
         forecast_cols = [col for col in df.columns if col.endswith(FORECAST_SUFFIX)]
         def estimate_runout(row):
             if not forecast_cols or row['SOH'] <= 0:
-                return None
+                return np.nan
             remaining = row['SOH']
             for i, col in enumerate(forecast_cols):
                 usage = row.get(col, 0)
@@ -104,8 +104,8 @@ if uploaded_file:
                 remaining -= usage
                 if remaining <= 0:
                     # Assume each forecast col is 1 period (e.g., week)
-                    return i  # periods until runout
-            return None
+                    return float(i)  # periods until runout as float
+            return np.nan
         df['Runout Period'] = df.apply(estimate_runout, axis=1)
         # Map PO info to inventory
         def get_next_po(row):
