@@ -1,0 +1,396 @@
+﻿SKU Code,SKU Description,SKU Category,Site,Source,SOH,Safety Stock,Min Qty,Max Qty,MOQ,Max Order Qty,Minor Order Multiple,Major Order Multiple,Jun-25,Jul-25,Aug-25,Sep-25,Oct-25,Nov-25,Dec-25
+R1-01-001,Biscuit Flour,Core Ingredient,Kawai,Local,41332,253671,321316,661316.3,10000,150000,5000,10000,366923,320973,322081,345757,346859,382402,311295
+R1-01-003,Cocoa Bean 50kg,Core Ingredient,Kawai,Local,0,8048,16632,31632.4,15000,30000,7500,15000,11467,11721,8260,10255,14319,12374,7455
+R1-01-006,Popping Corn 25kg,Core Ingredient,Taraka,Overseas,1025,49950,223110,301110.0,26000,364000,13000,26000,64800,59400,59400,64800,70200,81000,64800
+R1-01-007,Premix Curry Powder 25kg,Core Ingredient,Taraka,Overseas,7100,11970,39102,56052.0,16950,67800,8475,16950,15960,14280,13440,16800,16800,19320,15120
+R1-01-009,Soft Flour Bags 25kg,Core Ingredient,Taraka,Local,13975,12074,15294,35294.1,10000,10000,5000,10000,18708,14285,14098,18775,14980,19619,14837
+R1-01-009,Soft Flour Bags 25kg,Core Ingredient,Kawai,Local,5000,72415,91726,191725.9,10000,80000,5000,10000,98944,92362,97257,94567,96181,103057,95897
+R1-03-001,Whey Powder 25kg Bag,Core Ingredient,Taraka,Overseas,57250,13327,45906,63905.6,18000,72000,9000,18000,17257,16461,18504,17648,15543,19189,19274
+R1-03-002,Whole Milk Powder 25kg Regular,Core Ingredient,Taraka,Overseas,48050,12234,42138,70138.0,14000,70000,7000,14000,13076,18211,14612,16033,16519,18532,13962
+R1-03-002,Whole Milk Powder 25kg Regular,Core Ingredient,Kawai,Overseas,3825,1214,4183,18182.8,14000,14000,7000,14000,1657,1495,1810,1517,1657,1756,1480
+R1-03-003,Instant Fat Filled Powder 25Kg,Core Ingredient,Taraka,Overseas,279911,19887,86175,114175.1,14000,140000,7000,14000,25859,24024,27936,26232,22865,27928,30108
+R1-04-002,Butter Oil Substitute 25kg,Core Ingredient,Taraka,Overseas,35550,27973,82674,126774.3,22050,110250,11025,22050,36429,34749,38601,36832,32746,39210,41643
+R1-04-003,Fractionated Super Olein,Core Ingredient,Taraka,Local,460,7,12,21012.4,21000,21000,10500,21000,11,9,9,10,10,12,9
+R1-04-003,Fractionated Super Olein,Core Ingredient,Kawai,Local,74300,30390,50650,92649.9,21000,42000,10500,21000,38495,43275,40440,42195,40428,44132,32650
+R1-05-001,Ravenswood Rg 815 Stabilizer/,Core Ingredient,Taraka,Overseas,360,53,135,635.5,500,500,250,500,53,80,62,80,53,62,87
+R1-06-001,Glucose De38-40 280/300kg,Core Ingredient,Taraka,Overseas,96000,28632,117707,165707.4,24000,192000,12000,24000,36508,36428,38747,37387,34380,40326,41784
+R1-06-001,Glucose De38-40 280/300kg,Core Ingredient,Kawai,Overseas,0,0,0,0.0,4640,0,2320,4640,0,0,0,0,0,0,0
+R1-06-002,Refined Sugar 25/50kg - IC,Core Ingredient,Taraka,Overseas,389875,69795,262118,362517.7,25100,401600,12550,25100,89535,87627,93433,90951,84997,102445,98905
+R1-06-003,Glucose 62DE (Frutose) 285kg,Core Ingredient,Kawai,Overseas,8160,1676,5324,9964.4,4640,9280,2320,4640,2317,2163,2107,2286,2129,2559,2160
+R2-01-001,Cooking Salt 1Kg,Shared Ingredient,Taraka,Local,120,168,750,990.0,20,120,10,20,166,200,203,198,264,264,215
+R2-01-002,Corn Flour 25kg,Shared Ingredient,Taraka,Overseas,475,10,30,530.1,500,500,250,500,14,12,12,13,14,17,13
+R2-01-002,Corn Flour 25kg,Shared Ingredient,Kawai,Overseas,0,895,2646,4645.6,1000,4000,500,1000,1238,1093,1141,1166,1215,1406,1141
+R2-01-003,Desiccated Coconut 25kg,Shared Ingredient,Kawai,Local,1350,419,531,1130.6,100,0,50,100,464,516,772,516,516,516,516
+R2-01-004,Iodised Salt 25kg,Shared Ingredient,Kawai,Overseas,18550,4190,18159,45158.6,27000,54000,13500,27000,6050,5251,5361,5669,5717,6170,5355
+R2-02-001,Brown Colour 25kg,Shared Ingredient,Taraka,Overseas,575,20,56,105.9,50,100,25,50,22,28,22,24,28,26,28
+R2-02-001,Brown Colour 25kg,Shared Ingredient,Kawai,Overseas,25,1,3,53.0,50,50,25,50,1,1,1,1,1,2,1
+R2-02-002,Caramel Colour 275kg,Shared Ingredient,Kawai,Overseas,0,334,1062,2161.9,1100,2200,550,1100,537,593,270,472,483,383,473
+R2-02-004,Carmoisen Red 25kg/Container,Shared Ingredient,Taraka,Overseas,675,97,327,827.0,500,500,250,500,157,113,117,124,144,152,130
+R2-02-005,Chocolate Chip 15kg,Shared Ingredient,Kawai,Overseas,1005,224,713,1213.1,500,1000,250,500,265,283,378,378,189,378,189
+R2-02-006,Chocolate Flavour Pr0505 5L,Shared Ingredient,Kawai,Overseas,0,0,0,0.0,50,0,25,50,0,0,0,0,0,0,0
+R2-02-007,Citric Acid 25kg,Shared Ingredient,Taraka,Overseas,2450,592,1804,2803.5,1000,3000,500,1000,780,682,741,716,869,955,776
+R2-02-007,Citric Acid 25kg,Shared Ingredient,Kawai,Overseas,25,9,27,526.8,500,500,250,500,12,11,12,12,13,10,13
+R2-02-009,Cocoa Powder Df740 25kg Bag,Shared Ingredient,Taraka,Overseas,0,681,2375,4374.7,2000,4000,1000,2000,842,981,816,878,913,944,912
+R2-02-010,Cocoa Powder Df700-11Br 25kg,Shared Ingredient,Kawai,Overseas,3125,536,1870,3870.0,2000,4000,1000,2000,876,608,704,752,848,672,704
+R2-02-011,Cocoa Powder Df800-11B 25kg,Shared Ingredient,Taraka,Overseas,0,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R2-02-011,Cocoa Powder Df800-11B 25kg,Shared Ingredient,Kawai,Overseas,2600,545,1900,3900.0,2000,4000,1000,2000,863,951,446,796,748,621,796
+R2-02-012,Coconut Essence 25L,Shared Ingredient,Kawai,Overseas,40,5,16,66.4,50,50,25,50,6,6,10,6,6,6,6
+R2-02-014,Dark Choc Comp 10/20kg (Bc),Shared Ingredient,Taraka,Overseas,17760,8551,29833,49832.8,10000,50000,5000,10000,10028,12389,10179,11593,11449,10349,12447
+R2-02-015,Dark Chocolate Chips 15kg,Shared Ingredient,Taraka,Local,650,4503,7505,13604.8,100,4900,50,100,6335,3410,6804,6335,3195,9571,6707
+R2-02-016,Dextrose Monohydrate 15kg,Shared Ingredient,Kawai,Overseas,0,110,351,851.1,500,500,250,500,132,136,176,176,88,176,132
+R2-02-018,Ethyl Vanillin 1kg,Shared Ingredient,Kawai,Overseas,0,2,5,24.8,20,20,10,20,2,2,2,2,2,2,2
+R2-02-019,Flavour Chocolate 25Ls,Shared Ingredient,Taraka,Overseas,1850,566,1799,2799.1,500,2500,250,500,673,844,658,687,797,728,815
+R2-02-020,Flavour Chocolate Firm502185A,Shared Ingredient,Taraka,Overseas,0,1,2,52.0,50,50,25,50,1,1,1,1,1,1,1
+R2-02-022,Flavour Strawberry (Tr) 25kg,Shared Ingredient,Taraka,Overseas,1375,145,460,959.8,500,1000,250,500,197,195,206,207,125,211,213
+R2-02-023,Flavour Symrise Raspberry 25kg,Shared Ingredient,Taraka,Overseas,420,40,129,328.6,200,200,100,200,60,42,60,50,50,67,55
+R2-02-024,Flavour Vanilla 15L,Shared Ingredient,Taraka,Local,6180,1166,5208,6807.7,100,800,50,100,1554,1374,1676,1576,1407,1615,1679
+R2-02-025,Ingredient Crumbs Vanilla 15kg,Shared Ingredient,Taraka,Overseas,4050,1427,4662,9161.9,4500,9000,2250,4500,1426,2176,1656,2176,1501,1732,2176
+R2-02-026,Lemon Oil 5L,Shared Ingredient,Kawai,Overseas,5,0,2,6.6,5,5,3,5,1,0,1,1,1,0,1
+R2-02-027,Liquid Lecithin 200kg,Shared Ingredient,Taraka,Overseas,0,3,12,212.0,200,200,100,200,4,4,4,4,4,5,4
+R2-02-027,Liquid Lecithin 200kg,Shared Ingredient,Kawai,Overseas,0,58,229,728.7,500,500,250,500,72,73,73,82,80,81,77
+R2-02-028,Liquid Orange 5L,Shared Ingredient,Kawai,Overseas,30,2,7,27.0,20,20,10,20,4,2,3,3,4,2,4
+R2-02-029,Neutral Cloud (Sunripe) Firme,Shared Ingredient,Taraka,Overseas,825,38,130,330.2,200,200,100,200,37,41,51,43,59,61,48
+R2-02-030,Orange Concentrate 1L,Shared Ingredient,Kawai,Overseas,7,1,2,11.7,10,10,5,10,1,1,1,1,1,1,1
+R2-02-031,Peppermint Oil 5kg,Shared Ingredient,Kawai,Overseas,30,1,2,12.1,10,10,5,10,1,1,1,0,1,1,1
+R2-02-032,Pernicol Brown 25kg,Shared Ingredient,Kawai,Overseas,25,0,1,21.2,20,20,10,20,1,1,1,0,1,1,1
+R2-02-033,Savoury Flavour 5L,Shared Ingredient,Kawai,Overseas,1945,116,369,568.6,50,550,25,50,141,169,141,169,169,141,141
+R2-02-034,Sodium Alginate Fd155 25Kg,Shared Ingredient,Taraka,Overseas,0,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R2-02-035,Sodium Carboxymethyl Cellulose,Shared Ingredient,Taraka,Overseas,0,11,40,539.9,500,500,250,500,15,13,13,16,13,15,15
+R2-02-036,Sodium Saccharine 25kg/Bag,Shared Ingredient,Taraka,Overseas,2725,52,157,656.9,500,500,250,500,71,58,63,62,80,82,67
+R2-02-037,Sunset Yellow Colour 25kg,Shared Ingredient,Taraka,Overseas,750,50,160,660.0,500,500,250,500,108,41,40,113,47,117,46
+R2-02-037,Sunset Yellow Colour 25kg,Shared Ingredient,Kawai,Overseas,0,1,3,53.0,50,50,25,50,1,1,1,1,1,1,1
+R2-02-038,Tartrazine Colour 25kg,Shared Ingredient,Taraka,Overseas,3000,405,1285,2285.2,1000,2000,500,1000,921,304,296,966,352,984,338
+R2-02-039,Vanilla Flavour 5L,Shared Ingredient,Kawai,Overseas,625,142,451,950.9,500,1000,250,500,225,185,163,196,218,188,186
+R2-02-042,Sucralose - Tianjia,Shared Ingredient,Taraka,Overseas,3550,152,462,862.0,200,800,100,200,206,175,181,183,240,240,196
+R2-02-043,Raspberry Flavor 30222 - Ravenswood,Shared Ingredient,Taraka,Overseas,340,83,285,784.8,500,500,250,500,137,95,95,104,131,131,108
+R2-02-044,Pineapple Flavor 30224 - Ravenswood,Shared Ingredient,Taraka,Overseas,730,12,41,140.6,100,100,50,100,12,12,16,12,21,16,16
+R2-02-045,Tropical Flavor 30225 - Ravenswood,Shared Ingredient,Taraka,Overseas,180,10,33,132.7,100,100,50,100,8,8,12,12,16,16,12
+R2-02-046,Cola Flavor 30226 - Ravenswood,Shared Ingredient,Taraka,Overseas,0,20,70,170.1,100,100,50,100,22,29,22,24,31,31,26
+R2-02-047,Passion Fruit Flavor PF5523 - Ravenswood,Shared Ingredient,Taraka,Overseas,280,4,11,110.8,100,100,50,100,3,3,5,5,6,6,5
+R2-02-049,Vitamin C (Ascorbic Acid) 20Kg,Shared Ingredient,Taraka,Overseas,2150,13,58,258.0,200,200,100,200,16,15,17,16,21,21,17
+R2-02-050,Trisodium Citrate,Shared Ingredient,Taraka,Overseas,1500,18,78,278.4,200,200,100,200,25,21,22,22,29,29,23
+R2-02-059,Orange Flavor 30223 - Ravenswood,Shared Ingredient,Taraka,Overseas,0,11,38,137.9,100,100,50,100,8,12,16,12,16,20,12
+R2-03-001,Full Cream Milk Powder 25kg,Shared Ingredient,Kawai,Overseas,0,1338,5978,19977.6,14000,14000,7000,14000,1852,1627,1965,1682,1844,1953,1635
+R2-03-002,Sweetened Condensed Milk 13kg,Shared Ingredient,Kawai,Overseas,2340,597,1951,4876.3,2925,2925,1463,2925,896,778,711,789,899,774,827
+R2-04-001,Margarine 15kg (Smazz),Shared Ingredient,Kawai,Overseas,0,1895,6696,27696.4,21000,21000,10500,21000,2078,2284,3035,2613,1733,2462,3035
+R2-04-002,Palmia Shortening 20kg,Shared Ingredient,Kawai,Overseas,7060,1695,6593,20292.6,13700,13700,6850,13700,2761,1931,2228,2349,2674,2152,2228
+R2-04-003,Saltted Butter 25kg,Shared Ingredient,Kawai,Overseas,15700,3022,10409,27208.9,16800,16800,8400,16800,3445,3673,4749,4045,3448,3794,4468
+R2-04-005,White Margarine 20kg,Shared Ingredient,Kawai,Overseas,110360,19152,67669,111369.1,21850,109250,10925,21850,27950,23823,23699,26120,26982,28388,24203
+R2-04-007,Fama Gold Margarine 46-48 15kg,Shared Ingredient,Kawai,Overseas,9000,1413,4679,26799.2,22120,22120,11060,22120,1505,1711,2192,2192,888,2132,2192
+R2-04-008,Fama Gold Shortening SMP 36-39 15kg,Shared Ingredient,Kawai,Overseas,47715,10688,36814,57813.8,21000,63000,10500,21000,15848,14176,13192,14589,14792,14542,14211
+R2-04-010,Hydrogenated Palm Oil Shortening 20kg,Shared Ingredient,Kawai,Overseas,0,10926,48803,69802.9,21000,63000,10500,21000,16979,14653,12946,15180,15661,14389,14579
+R2-04-011,Fama Gold Shortening SMP 46-48 15kg,Shared Ingredient,Kawai,Overseas,37245,5959,21586,43586.4,22000,44000,11000,22000,7995,8202,8267,7525,7814,8880,6988
+R2-05-001,Guar Gum,Shared Ingredient,Taraka,Overseas,0,17,68,567.8,500,500,250,500,21,21,21,23,21,21,25
+R2-05-002,Palsgaard Extruice 379,Shared Ingredient,Taraka,Overseas,10880,1050,4315,18314.7,14000,14000,7000,14000,1402,1314,1412,1434,1265,1469,1504
+R2-06-002,Golden Syrup 292kg,Shared Ingredient,Kawai,Overseas,6716,2275,6723,10226.6,1168,9344,584,1168,3042,2912,2792,2908,3157,3642,2787
+R2-06-003,Icing Sugar 25kg,Shared Ingredient,Kawai,Local,36740,18245,69330,111329.8,21000,105000,10500,21000,25573,23843,24138,24758,24904,23884,24430
+R2-06-004,Refine White Sugar 25kg - Biscuits,Shared Ingredient,Kawai,Overseas,39075,26518,96054,146054.4,25000,150000,12500,25000,35005,33908,35960,36154,33919,41264,30939
+R2-17-001,Ammonium Bicarbonate 25kg,Shared Ingredient,Kawai,Overseas,5350,1251,4865,7864.7,3000,9000,1500,3000,1572,1605,1688,1602,1842,1846,1424
+R2-17-002,Bicarbonate Soda 25kg,Shared Ingredient,Taraka,Overseas,4975,8926,36697,48696.7,4000,56000,2000,4000,12828,11119,11035,12828,11542,13423,11462
+R2-17-002,Bicarbonate Soda 25kg,Shared Ingredient,Kawai,Overseas,3500,509,2093,3093.2,1000,4000,500,1000,667,689,685,672,676,734,616
+R2-17-003,Sodium Acid Pyrophosphate 25kg,Shared Ingredient,Taraka,Overseas,17650,12398,37745,57245.2,6500,52000,3250,6500,17819,15439,15322,17819,16039,18648,15917
+R2-17-003,Sodium Acid Pyrophosphate 25kg,Shared Ingredient,Kawai,Overseas,625,301,917,1916.7,1000,2000,500,1000,376,416,394,409,434,432,322
+R2-18-001,Egg Pulp 8kg,Shared Ingredient,Kawai,Local,1070,875,1108,2308.4,400,1200,200,400,1136,1088,1211,1196,1180,1176,1149
+R3-02-001,25L Butter Scotch Flavour,Unique Ingredent,Taraka,Overseas,50,12,53,103.2,50,100,25,50,12,17,17,17,12,17,17
+R3-02-002,Annatto E160B 5kg,Unique Ingredent,Taraka,Overseas,0,9,32,51.8,20,60,10,20,7,13,10,12,8,12,13
+R3-02-003,Barbecue Flavour Iaa11621 25kg,Unique Ingredent,Kawai,Overseas,0,0,0,0.0,300,0,150,300,0,0,0,0,0,0,0
+R3-02-005,Beef & Onion Seasoning Sc792773 25kg,Unique Ingredent,Kawai,Overseas,0,0,0,0.0,3000,0,1500,3000,0,0,0,0,0,0,0
+R3-02-007,Beef And Tomato Flavour Sn651728 25kg,Unique Ingredent,Kawai,Overseas,0,2698,12052,18052.3,3000,12000,1500,3000,3692,3976,3692,3692,3124,3976,3124
+R3-02-010,Beef Powder Sa020373 25kg,Unique Ingredent,Kawai,Overseas,0,0,0,0.0,20,0,10,20,0,0,0,0,0,0,0
+R3-02-011,Brilliant Blue Colour 25kg,Unique Ingredent,Taraka,Overseas,100,3,14,114.1,100,100,50,100,3,3,5,3,5,4,5
+R3-02-016,Carmine 5kg,Unique Ingredent,Taraka,Overseas,0,0,0,0.0,20,0,10,20,0,0,0,0,0,0,0
+R3-02-023,Chicken Seasoning Sa027149 25kg,Unique Ingredent,Kawai,Overseas,2000,642,2782,5781.5,3000,3000,1500,3000,778,934,778,934,934,778,778
+R3-02-024,Chicken Seasoning Sc624509 20kg,Unique Ingredent,Kawai,Overseas,6840,1004,4351,7350.8,3000,6000,1500,3000,1289,1445,1289,1445,1445,1460,948
+R3-02-025,Choc Cookie Chunks Prem 10kg,Unique Ingredent,Taraka,Overseas,14220,1266,5488,11487.9,6000,6000,3000,6000,0,340,2868,0,340,0,3207
+R3-02-026,Chocolate Coating Crumbs,Unique Ingredent,Taraka,Overseas,1020,400,1735,6234.7,4500,4500,2250,4500,427,641,427,641,427,427,641
+R3-02-027,Chocolate Paste Pr0950 22kg,Unique Ingredent,Kawai,Overseas,902,58,251,471.4,220,440,110,220,70,70,88,88,44,88,88
+R3-02-029,Fibre Gum B 25kg,Unique Ingredent,Kawai,Overseas,1300,180,780,1280.0,500,1500,250,500,292,240,192,240,288,240,240
+R3-02-030,Flavour Banana (Tr) 15kg,Unique Ingredent,Taraka,Overseas,0,17,75,135.4,60,120,30,60,7,17,26,22,28,29,18
+R3-02-031,Flavour Bubble Gum 25 Liters,Unique Ingredent,Taraka,Overseas,325,24,103,153.3,50,150,25,50,20,20,48,20,41,20,41
+R3-02-032,Flavour Coffee (Tr) 25kg,Unique Ingredent,Taraka,Overseas,0,0,0,0.0,60,0,30,60,0,0,0,0,0,0,0
+R3-02-033,Flavour Enhancer Sc179199 20kg,Unique Ingredent,Kawai,Overseas,0,0,0,0.0,60,0,30,60,0,0,0,0,0,0,0
+R3-02-034,Flavour Lime 25Ls,Unique Ingredent,Taraka,Overseas,525,37,160,360.1,200,200,100,200,55,38,55,42,46,62,53
+R3-02-035,Flavour Orange (Tr) 20kg,Unique Ingredent,Taraka,Overseas,300,35,151,461.2,310,310,155,310,50,37,50,41,42,59,51
+R3-02-036,Flavour Pepper Mint 25Ls,Unique Ingredent,Taraka,Overseas,650,77,332,532.2,100,200,50,100,0,0,0,0,0,102,0
+R3-02-037,Flavour Pineapple (Tr) 20kg,Unique Ingredent,Taraka,Overseas,340,39,169,369.0,200,200,100,200,59,42,55,46,46,66,57
+R3-02-040,Flavour Toffee 25L,Unique Ingredent,Taraka,Overseas,300,17,75,275.0,200,200,100,200,17,26,17,26,26,17,26
+R3-02-046,Msg 25gk/Bag,Unique Ingredent,Taraka,Overseas,0,15234,66014,90014.0,24000,72000,12000,24000,21120,18600,17064,21576,20400,24552,19680
+R3-02-048,Peanut Butter Crunchy 15kg,Unique Ingredent,Kawai,Overseas,275,2668,11562,22672.3,11110,22220,5555,11110,3358,3358,4797,2399,3597,4797,2399
+R3-02-049,Peanut Flavour 5L,Unique Ingredent,Kawai,Overseas,15,1,5,55.1,50,50,25,50,1,1,2,1,2,2,1
+R3-02-050,Potassium Sorbate 25kg,Unique Ingredent,Taraka,Overseas,600,10,45,544.8,500,500,250,500,15,11,15,12,13,18,14
+R3-02-052,Premix Savoury Salt 25kg,Unique Ingredent,Taraka,Overseas,2550,1200,5200,7200.0,1000,6000,500,1000,1440,1440,1440,1920,1440,1920,1440
+R3-02-054,Sodium Benzoate 25kg,Unique Ingredent,Taraka,Overseas,1175,50,215,715.4,500,500,250,500,72,53,72,59,60,85,69
+R3-02-055,Sodium Cyclamate 25kg (Large),Unique Ingredent,Taraka,Overseas,3200,2711,8254,12253.8,500,11500,250,500,3601,3197,3204,3269,4253,4264,3502
+R3-02-056,Sodium Metabisulphite 25kg,Unique Ingredent,Taraka,Overseas,0,15,46,546.5,500,500,250,500,22,16,22,18,19,26,21
+R3-02-056,Sodium Metabisulphite 25kg,Unique Ingredent,Kawai,Overseas,25,53,162,662.2,500,500,250,500,68,67,67,67,70,89,65
+R3-02-057,T.R Caramel Flavour 15kg,Unique Ingredent,Taraka,Overseas,0,2,8,22.9,15,15,8,15,3,2,3,2,3,2,3
+R3-02-060,Vitamin Blend Sn 20340 25kg,Unique Ingredent,Kawai,Overseas,119,24,76,175.8,100,200,50,100,39,32,25,32,38,32,32
+R3-02-070,Beef Seasoning SC1058002 25kg,Unique Ingredent,Kawai,Overseas,3300,788,2364,5364.4,3000,6000,1500,3000,942,1129,1129,1129,845,1129,942
+R3-03-003,Sweet Edible Whey Powder (Au),Unique Ingredent,Taraka,Overseas,5000,1244,6328,22328.2,16000,16000,8000,16000,1339,1763,1505,1591,1655,1985,1450
+R3-04-001,Premium Sunflower Oil 20L Drum,Unique Ingredent,Taraka,Local,336,544,1922,2921.6,500,0,250,500,553,830,654,830,553,654,830
+R3-05-001,Anti Caking Agent (Ws) Tixosil,Unique Ingredent,Taraka,Overseas,1755,20,70,169.7,100,100,50,100,28,23,24,24,32,31,26
+R3-07-001,Foam Seal Kakaruk Salt,Unique Ingredent,Taraka,Overseas,75000,12000,41867,91866.7,50000,100000,25000,50000,14400,14400,14400,19200,14400,19200,14400
+R3-07-002,Shrink Sleeve Kakaruk Salt,Unique Ingredent,Taraka,Overseas,182600,12000,41867,141866.7,100000,100000,50000,100000,14400,14400,14400,19200,14400,19200,14400
+R3-12-001,10 L Pp-Good Grade Pail,Unique Ingredent,Taraka,Overseas,7072,1200,4187,17626.7,13440,13440,6720,13440,1800,1500,1200,1800,1500,2400,1200
+R3-17-001,Yeast 20 x 500g,Unique Ingredent,Kawai,Local,1570,245,311,1310.9,1000,0,500,1000,396,269,295,331,343,381,343
+R4-02-001,Sodium Cyclamate 25kg 80-100M,Packmats - Inners,Taraka,Overseas,11450,460,1994,2994.3,500,2000,250,500,633,523,552,557,728,729,593
+R4-07-001,Overwrap,Packmats - Inners,Kawai,Overseas,108,7,23,522.9,500,500,250,500,5,5,10,0,10,10,0
+R4-07-002,Plastic Seal (Round) 30mm,Packmats - Inners,Kawai,Overseas,50000,394,1374,11373.8,10000,10000,5000,10000,300,300,600,0,600,600,0
+R4-07-003,Wax Paper 16L (220mm),Packmats - Inners,Taraka,Overseas,43000,37913,130588,380587.5,250000,250000,125000,250000,48860,47020,52540,48860,45180,52540,57160
+R4-07-004,Wax Paper 8L (185mm),Packmats - Inners,Taraka,Overseas,5000,885,3048,13048.3,10000,10000,5000,10000,1180,1180,1180,1180,1180,1180,0
+R4-10-001,Carton 16L (Single),Packmats - Inners,Taraka,Local,45518,37913,48023,99022.5,1000,24000,500,1000,48860,47020,52540,48860,45180,52540,57160
+R4-10-004,Carton Value Pack 12 x 5/6 Pack,Packmats - Inners,Taraka,Local,3600,216,274,1273.6,1000,1000,500,1000,288,0,288,0,288,0,288
+R4-10-005,Cone Inner Box  21s,Packmats - Inners,Taraka,Overseas,241470,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R4-10-005,Cone Inner Box  21s,Packmats - Inners,Kawai,Overseas,260938,1116,3894,5893.6,1000,6000,500,1000,1984,992,992,1984,1984,992,1984
+R4-10-006,Cone Layer Pads 400s,Packmats - Inners,Taraka,Local,3600,5525,6998,14998.3,1000,4000,500,1000,7800,6500,6760,7280,7540,9100,7020
+R4-10-006,Cone Layer Pads 400s,Packmats - Inners,Kawai,Local,7750,7038,8915,18914.8,1000,5000,500,1000,10304,9200,8832,9568,9936,9936,8832
+R4-10-008,Inner Box 6Pk Sweet Heart Choc,Packmats - Inners,Taraka,Overseas,10150,2592,11578,31577.6,20000,20000,10000,20000,3456,3456,3456,3456,3456,3456,3456
+R4-10-009,Inner Box 6Pk Sweet Heart Van,Packmats - Inners,Taraka,Overseas,34498,5184,18086,38086.4,20000,40000,10000,20000,8640,5184,8640,5184,8640,5184,8640
+R4-10-011,Inner Boxes Stick Lines,Packmats - Inners,Taraka,Overseas,31725,33845,42870,102869.7,20000,180000,10000,20000,38988,49194,39042,48654,41256,43686,48924
+R4-10-012,Inner Ctn Chocolate Party Pack,Packmats - Inners,Taraka,Local,0,885,1121,3121.0,1000,1000,500,1000,1180,1180,0,1180,0,1180,0
+R4-10-014,Inner Ctn Vanilla Party Pack,Packmats - Inners,Taraka,Local,0,885,1121,3121.0,1000,1000,500,1000,0,0,1180,0,1180,0,0
+R4-10-018,Pad New 16L,Packmats - Inners,Taraka,Local,46900,37913,48023,99022.5,1000,24000,500,1000,48860,47020,52540,48860,45180,52540,57160
+R4-10-019,Pallet Tray,Packmats - Inners,Taraka,Local,0,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-10-020,QE Choc Tray,Packmats - Inners,Kawai,Overseas,2000,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R4-10-021,QE Dark Chocolate 12 x 140g Inner Carton,Packmats - Inners,Kawai,Overseas,0,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-10-022,QE Dark Chocolate 24 x 70g Inner Carton,Packmats - Inners,Kawai,Overseas,250,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-10-023,QE Dark Chocolate 48 x 35g Inner Carton,Packmats - Inners,Kawai,Overseas,2988,225,785,1285.0,500,1500,250,500,300,0,300,0,300,300,0
+R4-10-024,QE Dark Chocolate 6 x 12 x 140g Carton,Packmats - Inners,Kawai,Overseas,432,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R4-10-025,QE Gabled Carton (Pouch) Kokoda Drk Chocolate 180g,Packmats - Inners,Kawai,Overseas,1000,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R4-10-026,QE Gabled Carton (Pouch) Milk Chocolate 180g,Packmats - Inners,Kawai,Overseas,0,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R4-10-027,QE Gabled Carton (Pouch) White Chocolate 180g,Packmats - Inners,Kawai,Overseas,500,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R4-10-028,QE Gabled Carton(Pouch) Dark Chocolate 8 x 10g,Packmats - Inners,Kawai,Overseas,1000,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R4-10-029,QE Milk Chocolate 12 x 140g Inner Carton,Packmats - Inners,Kawai,Overseas,825,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-10-030,QE Milk Chocolate 24 x 70g Inner Carton,Packmats - Inners,Kawai,Overseas,500,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-10-031,QE Milk Chocolate 48 x 35g Inner Carton,Packmats - Inners,Kawai,Overseas,1454,225,785,1285.0,500,1500,250,500,0,300,300,0,300,300,0
+R4-10-032,QE Milk Chocolate 6 x 12 x 140g Carton,Packmats - Inners,Kawai,Overseas,491,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R4-10-033,QE Pikinini Pure Dark Chocolate 42 x 15g Inn.Carto,Packmats - Inners,Kawai,Overseas,1724,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-10-034,QE Pikinini Pure Milk Chocolate 42 x 15g Inn.Carto,Packmats - Inners,Kawai,Overseas,1500,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-10-035,QE Premium Cocoa Powder Pouch,Packmats - Inners,Kawai,Overseas,10800,2925,10205,28205.0,18000,18000,9000,18000,3600,3600,3600,3600,5400,3600,3600
+R4-10-036,QE White Chocolate 42 x 15g Inner Carton,Packmats - Inners,Kawai,Overseas,2500,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-10-037,Stick Line I/C Dividing Pads,Packmats - Inners,Taraka,Local,30250,33845,42870,88869.7,1000,22000,500,1000,38988,49194,39042,48654,41256,43686,48924
+R4-10-046,QE Prem B'ville Dark Choc 12x18x10gm Outer Carton,Packmats - Inners,Kawai,Local,400,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R4-10-047,QE Gabled Carton Bville Drk Chocolate 180g,Packmats - Inners,Kawai,Overseas,4000,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R4-10-048,Inner Kools Plastic 10g Clear,Packmats - Inners,Taraka,Overseas,338400,42750,149150,249150.0,50000,250000,25000,50000,57000,50400,50400,51600,67200,67200,55200
+R4-11-005,Foil Wrap Blue,Packmats - Inners,Kawai,Overseas,137,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-11-006,Foil Wrap Gold,Packmats - Inners,Kawai,Overseas,81,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-11-007,Foil Wrap Pink,Packmats - Inners,Kawai,Overseas,138,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-11-008,Label Curry Powder 100g,Packmats - Inners,Taraka,Overseas,75000,67200,213547,313546.7,50000,300000,25000,50000,92400,84000,67200,100800,92400,109200,84000
+R4-11-009,Label Curry Powder 70g,Packmats - Inners,Taraka,Overseas,0,52500,183167,263166.7,20000,280000,10000,20000,67200,58800,67200,67200,75600,84000,67200
+R4-11-010,Label Zest I 140g,Packmats - Inners,Taraka,Overseas,78000,65100,206873,306873.3,50000,300000,25000,50000,84000,84000,75600,92400,84000,100800,84000
+R4-11-011,Labels Baking Powder 140g,Packmats - Inners,Taraka,Overseas,0,155250,493350,743350.0,50000,700000,25000,50000,226800,183600,183600,226800,216000,237600,194400
+R4-11-012,Labels Egg Yellow 120g,Packmats - Inners,Taraka,Overseas,132000,70350,223557,323556.7,50000,350000,25000,50000,100800,84000,75600,109200,92400,109200,92400
+R4-11-013,Labels Kakaruk Salt 24 x 100g,Packmats - Inners,Taraka,Overseas,25000,12000,38133,58133.3,20000,60000,10000,20000,14400,14400,14400,19200,14400,19200,14400
+R4-11-019,QE Gold Wrapper,Packmats - Inners,Kawai,Overseas,411,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-12-001,2L Lid Vanilla,Packmats - Inners,Taraka,Overseas,10560,6777,28765,47764.6,19000,57000,9500,19000,9036,9036,9036,9036,9036,9036,9036
+R4-12-002,2L Tub Vanilla,Packmats - Inners,Taraka,Overseas,11120,6777,33283,46722.6,13440,53760,6720,13440,9036,9036,9036,9036,9036,9036,9036
+R4-12-003,Cap Blue 32mm 28000Pcs/Fcl,Packmats - Inners,Taraka,Overseas,8600,65100,227127,427126.7,200000,400000,100000,200000,84000,84000,75600,92400,84000,100800,84000
+R4-12-004,Cap Red Tamper-Proof 32mm,Packmats - Inners,Taraka,Overseas,464400,345300,1204713,1804713.3,200000,1800000,100000,200000,487200,410400,393600,504000,476400,540000,438000
+R4-12-006,Cups Sundae Gala,Packmats - Inners,Taraka,Overseas,0,110880,386848,536848.0,50000,600000,25000,50000,158400,142560,158400,158400,126720,142560,158400
+R4-12-007,Lid 1L 3Pla Fleiva,Packmats - Inners,Taraka,Overseas,32200,7470,36686,55686.0,19000,76000,9500,19000,0,0,0,9960,0,0,0
+R4-12-011,Lid 1L Chocolate,Packmats - Inners,Taraka,Overseas,42000,7200,35360,54360.0,19000,57000,9500,19000,7200,7200,14400,7200,7200,14400,7200
+R4-12-012,Lid 1L Cookies & Cream,Packmats - Inners,Taraka,Overseas,28800,5400,26520,45520.0,19000,57000,9500,19000,0,7200,0,0,7200,0,7200
+R4-12-016,Lid 1L Strawberry & Cream,Packmats - Inners,Taraka,Overseas,24600,5400,26520,45520.0,19000,57000,9500,19000,7200,0,7200,7200,0,7200,0
+R4-12-017,Lid 1L Van Choc Chips,Packmats - Inners,Taraka,Overseas,29400,5400,26520,45520.0,19000,57000,9500,19000,0,0,7200,0,0,0,7200
+R4-12-018,Lid 1L Vannila,Packmats - Inners,Taraka,Overseas,33600,11700,57460,76460.0,19000,95000,9500,19000,21600,14400,14400,14400,14400,21600,14400
+R4-12-019,Lid 2L 3Pla Fleiva,Packmats - Inners,Taraka,Overseas,14880,3690,18122,31562.0,13440,40320,6720,13440,4920,0,4920,0,0,4920,0
+R4-12-020,Lid 2L Chocolate,Packmats - Inners,Taraka,Overseas,22080,4895,24037,37477.4,13440,40320,6720,13440,6024,6024,6024,6024,6024,6024,9036
+R4-12-021,Lid 2L Cookies & Cream,Packmats - Inners,Taraka,Overseas,24957,2259,11094,24534.2,13440,26880,6720,13440,0,0,3012,0,0,0,3012
+R4-12-022,Lid 2L Strawberry & Cream,Packmats - Inners,Taraka,Overseas,17640,2259,11094,24534.2,13440,26880,6720,13440,6024,3012,3012,3012,3012,3012,3012
+R4-12-023,Lid 2L Van Choc Chip,Packmats - Inners,Taraka,Overseas,6240,2636,12943,26383.2,13440,26880,6720,13440,3012,3012,3012,3012,3012,6024,3012
+R4-12-024,Lid 5L Plain White,Packmats - Inners,Taraka,Overseas,0,1620,7236,11316.0,4080,8160,2040,4080,0,0,960,1920,0,1920,3840
+R4-12-025,Lids Shaker Kakaruk Salt,Packmats - Inners,Taraka,Overseas,7500,12000,58933,158933.3,100000,100000,50000,100000,14400,14400,14400,19200,14400,19200,14400
+R4-12-026,Stubby Cream Trays,Packmats - Inners,Kawai,Overseas,469269,109650,382557,576956.7,64800,583200,32400,64800,182800,122400,142800,153000,173400,142800,142800
+R4-12-027,Sundae Caramel Spoon In Lid,Packmats - Inners,Taraka,Overseas,95998,29700,103620,153620.0,50000,150000,25000,50000,47520,31680,47520,31680,47520,31680,47520
+R4-12-028,Sundae Choc Chips Spoon In Lid,Packmats - Inners,Taraka,Overseas,235500,11880,41448,91448.0,50000,100000,25000,50000,15840,15840,15840,15840,0,15840,15840
+R4-12-029,Sundae Chocolate Spoon In Lid,Packmats - Inners,Taraka,Overseas,64500,37620,131252,231252.0,50000,200000,25000,50000,47520,47520,47520,63360,47520,47520,47520
+R4-12-030,Sundae Strawberry Spoon In Lid,Packmats - Inners,Taraka,Overseas,124498,21780,75988,125988.0,50000,150000,25000,50000,31680,31680,31680,31680,15840,31680,31680
+R4-12-031,Sundae Van Choc Chip Spoon In Lid,Packmats - Inners,Taraka,Overseas,0,11880,41448,91448.0,50000,100000,25000,50000,15840,15840,15840,15840,15840,15840,15840
+R4-12-033,Tub 1L 3Pla Fleiva,Packmats - Inners,Taraka,Overseas,31600,7470,36686,55686.0,19000,76000,9500,19000,0,0,0,9960,0,0,0
+R4-12-037,Tub 1L Chocolate,Packmats - Inners,Taraka,Overseas,41400,7200,35360,54360.0,19000,57000,9500,19000,7200,7200,14400,7200,7200,14400,7200
+R4-12-038,Tub 1L Cookies & Cream,Packmats - Inners,Taraka,Overseas,27600,5400,26520,45520.0,19000,57000,9500,19000,0,7200,0,0,7200,0,7200
+R4-12-041,Tub 1L Strawberry & Cream,Packmats - Inners,Taraka,Overseas,23700,5400,26520,45520.0,19000,57000,9500,19000,7200,0,7200,7200,0,7200,0
+R4-12-042,Tub 1L Van Choc Chips,Packmats - Inners,Taraka,Overseas,30900,5400,26520,45520.0,19000,57000,9500,19000,0,0,7200,0,0,0,7200
+R4-12-043,Tub 1L Vanilla,Packmats - Inners,Taraka,Overseas,32400,11700,57460,76460.0,19000,95000,9500,19000,21600,14400,14400,14400,14400,21600,14400
+R4-12-044,Tub 2L 3Pla Fleiva,Packmats - Inners,Taraka,Overseas,14560,3690,18122,31562.0,13440,40320,6720,13440,4920,0,4920,0,0,4920,0
+R4-12-045,Tub 2L Chocolate,Packmats - Inners,Taraka,Overseas,20960,4895,24037,37477.4,13440,40320,6720,13440,6024,6024,6024,6024,6024,6024,9036
+R4-12-046,Tub 2L Cookies & Cream,Packmats - Inners,Taraka,Overseas,26640,2259,11094,24534.2,13440,26880,6720,13440,0,0,3012,0,0,0,3012
+R4-12-047,Tub 2L Strawberry & Cream,Packmats - Inners,Taraka,Overseas,17320,2259,11094,24534.2,13440,26880,6720,13440,6024,3012,3012,3012,3012,3012,3012
+R4-12-049,Tub 5L Plain White,Packmats - Inners,Taraka,Overseas,5744,1620,7236,11316.0,4080,16320,2040,4080,0,0,960,1920,0,1920,3840
+R4-12-050,Tub 2L Vanilla Choc Chip,Packmats - Inners,Taraka,Overseas,12160,2636,12943,26383.2,13440,26880,6720,13440,3012,3012,3012,3012,3012,6024,3012
+R4-12-052,Scotch Finger Trays,Packmats - Inners,Kawai,Overseas,99674,30583,106700,156699.8,10000,160000,5000,10000,36317,36317,53520,26760,53520,21025,53520
+R4-13-001,Cone Plastic Inner Bags 21S,Packmats - Inners,Taraka,Local,228000,0,0,0.0,5000,0,2500,5000,0,0,0,0,0,0,0
+R4-13-001,Cone Plastic Inner Bags 21S,Packmats - Inners,Kawai,Local,182340,1116,1414,6413.6,5000,5000,2500,5000,1984,992,992,1984,1984,992,1984
+R4-13-002,Cone Plastic Inner Bags 400S,Packmats - Inners,Taraka,Local,223000,11050,13997,28996.7,5000,10000,2500,5000,15600,13000,13520,14560,15080,18200,14040
+R4-13-002,Cone Plastic Inner Bags 400S,Packmats - Inners,Kawai,Local,22200,14076,17830,37829.6,5000,15000,2500,5000,20608,18400,17664,19136,19872,19872,17664
+R4-13-003,Inner Plastic - 450 x 915 x 75,Packmats - Inners,Taraka,Local,26100,12463,15786,32785.8,1000,8000,500,1000,16850,14900,14600,15500,18900,20000,15800
+R4-13-004,Inner Plastic- xl Check Bag,Packmats - Inners,Taraka,Local,11500,20550,26030,54030.0,1000,13000,500,1000,30000,21600,30000,24000,25200,34800,28800
+R4-13-005,QE Poly Bag,Packmats - Inners,Kawai,Overseas,21500,3248,11332,16332.4,2500,17500,1250,2500,3779,4319,5157,5266,3318,4842,3083
+R4-15-002,Rewind 130ml Liklik Laga Stik,Packmats - Inners,Taraka,Overseas,50496,2096,6661,9660.9,500,9500,250,500,3060,2203,3060,2448,2570,3550,2938
+R4-15-008,Spice Bottle 24Pk Heat Shrink,Packmats - Inners,Taraka,Overseas,500,296,849,1349.0,500,1500,250,500,416,353,338,434,406,463,375
+R4-15-009,Wooden Ice Cream Sticks,Packmats - Inners,Taraka,Overseas,3110000,736236,2110543,3110543.2,50000,2750000,25000,50000,873504,1052784,862704,1039824,921024,946512,1067040
+R4-15-011,Preforms 17/18g 32mm neck,Packmats - Inners,Taraka,Overseas,0,292669,851991,1251991.3,200000,1200000,100000,200000,410200,357550,332350,427350,399400,455650,369050
+R4-15-013,Bottle Pett   70g,Consumables,Taraka,Overseas,0,52500,227500,297500.0,500,0,250,500,67200,58800,67200,67200,75600,84000,67200
+R4-15-014,Bottle Pett  100g,Consumables,Taraka,Overseas,0,369900,1602900,2096400.0,500,0,250,500,518400,450000,416400,548400,499200,576000,469200
+R4-16-002,Arrow Chicken 85g Rewind,Packmats - Inners,Kawai,Overseas,5238,554,1762,2761.6,500,2500,250,500,672,806,672,806,806,672,672
+R4-16-007,Choc Mint Cream 125g Rewind,Packmats - Inners,Kawai,Overseas,378,8,26,525.8,500,500,250,500,11,11,11,0,11,11,11
+R4-16-008,Choc Mint Cream 60g Rewind,Packmats - Inners,Kawai,Overseas,330,90,287,786.5,500,500,250,500,103,103,103,103,103,206,103
+R4-16-009,Chocolate Chip Cookies 100g Rewind,Packmats - Inners,Kawai,Overseas,1766,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-16-010,Chocolate Cream 60g Rewind,Packmats - Inners,Kawai,Overseas,414,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-16-012,Cream Cracker 75g Rewind,Packmats - Inners,Kawai,Overseas,1769,785,2494,3993.7,500,3500,250,500,1004,1004,1004,1004,1256,1256,753
+R4-16-014,Em Nau Beef & Onion 85g Rewind,Packmats - Inners,Kawai,Overseas,5577,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-16-015,Em Nau Beef & Tomato 85g Rewind,Packmats - Inners,Kawai,Overseas,18542,1285,4083,6082.9,500,6000,250,500,1758,1893,1758,1758,1488,1893,1488
+R4-16-016,Em Nau Beef 85g Rewind,Packmats - Inners,Kawai,Overseas,5996,186,591,1090.9,500,1000,250,500,270,270,270,270,135,270,270
+R4-16-017,Em Nau Chicken 85g Rewind,Packmats - Inners,Kawai,Overseas,21554,287,913,1413.3,500,1500,250,500,406,406,406,406,406,541,135
+R4-16-025,Hi-Ice Orange Rewind,Packmats - Inners,Taraka,Overseas,684,44,139,639.0,500,500,250,500,0,58,0,58,0,58,58
+R4-16-026,Hi-Ice Pineapple Rewind,Packmats - Inners,Taraka,Overseas,174,44,139,639.0,500,500,250,500,58,58,0,58,0,58,58
+R4-16-027,Hi-Ice Raspberry Rewind 6kg,Packmats - Inners,Taraka,Overseas,662,117,371,870.7,500,1000,250,500,175,117,175,175,175,175,117
+R4-16-028,Hi-Way Beef 140g Rewind,Packmats - Inners,Kawai,Overseas,13766,437,1390,2389.8,500,2000,250,500,412,617,617,617,617,617,412
+R4-16-030,Hi-Way Hardman 125g Rewind,Packmats - Inners,Kawai,Overseas,9913,174,552,1052.4,500,1000,250,500,199,199,199,199,397,199,199
+R4-16-031,Jp Banana Rewind 7.5kg/Roll,Packmats - Inners,Taraka,Overseas,2251,181,577,1076.6,500,1000,250,500,207,276,207,207,276,207,276
+R4-16-032,Jp Chocolate Rewind 7.5kg/Roll,Packmats - Inners,Taraka,Overseas,629,69,220,719.6,500,500,250,500,69,138,69,69,138,69,69
+R4-16-034,Kokonut Kina 100g Rewind,Packmats - Inners,Kawai,Overseas,2210,299,949,1448.7,500,1500,250,500,324,364,405,405,405,405,405
+R4-16-035,Kokonut Kina 200g Rewind,Packmats - Inners,Kawai,Overseas,367,55,174,673.7,500,500,250,500,62,68,123,62,62,62,62
+R4-16-037,Nambawan 100g Rewind,Packmats - Inners,Kawai,Overseas,708,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-16-038,Orange Cream 125g Rewind,Packmats - Inners,Kawai,Overseas,155,118,376,875.6,500,1000,250,500,189,95,189,189,189,95,189
+R4-16-040,Orange Slice Cream 60g Rewind,Packmats - Inners,Kawai,Overseas,477,187,593,1093.3,500,1000,250,500,320,213,213,213,320,213,320
+R4-16-041,Oro Chocolate Cream 125g Rewind,Packmats - Inners,Kawai,Overseas,369,65,207,706.5,500,500,250,500,114,116,58,58,116,58,116
+R4-16-042,Oro Chocolate Cream 60g Rewind,Packmats - Inners,Kawai,Overseas,338,130,415,914.7,500,1000,250,500,203,241,80,241,161,161,161
+R4-16-043,Paradise Beef Cracker 100g Rewind,Packmats - Inners,Kawai,Overseas,224,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-16-044,Peanut Cookies 100g Rewind,Packmats - Inners,Kawai,Overseas,796,97,309,809.4,500,500,250,500,122,122,188,94,94,188,94
+R4-16-045,Peanut Cookies 200g Rewind,Packmats - Inners,Kawai,Overseas,458,85,269,769.4,500,500,250,500,107,107,143,71,143,143,71
+R4-16-046,QE Chocolate Cookies 100g Rewind,Packmats - Inners,Kawai,Overseas,14,32,138,637.6,500,500,250,500,27,32,45,45,0,45,45
+R4-16-047,QE Dark Chocolate 140g Rewind,Packmats - Inners,Kawai,Overseas,82,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-16-048,QE Dark Chocolate 15g Rewind,Packmats - Inners,Kawai,Overseas,223,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-16-049,QE Dark Chocolate 70g Rewind,Packmats - Inners,Kawai,Overseas,48,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-16-050,QE Milk Choc 70g Rewind,Packmats - Inners,Kawai,Overseas,325,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-16-051,QE Milk Chocolate 140g Rewind,Packmats - Inners,Kawai,Overseas,578,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-16-052,QE Milk Chocolate 15g Rewind,Packmats - Inners,Kawai,Overseas,314,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-16-053,QE Pikinini Dark Choc 35g Rewind,Packmats - Inners,Kawai,Overseas,0,7,21,520.7,500,500,250,500,9,0,9,0,9,9,0
+R4-16-054,QE Pikinini Milk Choc 35g Rewind,Packmats - Inners,Kawai,Overseas,53,7,29,529.1,500,500,250,500,0,9,9,0,9,9,0
+R4-16-055,QE White Chocolate 15g Rewind,Packmats - Inners,Kawai,Overseas,328,0,0,0.0,500,0,250,500,0,0,0,0,0,0,0
+R4-16-058,Rewind Gala Crunch Coffee 77g,Packmats - Inners,Taraka,Overseas,287,106,338,838.1,500,500,250,500,113,170,113,170,113,113,170
+R4-16-059,Rewind Gala Crunch Strawberry,Packmats - Inners,Taraka,Overseas,435,71,225,725.1,500,500,250,500,57,113,57,113,57,113,113
+R4-16-060,Rewind Gala Crunch Toffee 77g,Packmats - Inners,Taraka,Overseas,749,113,361,860.6,500,500,250,500,113,170,113,170,170,113,170
+R4-16-062,Rewind Hamamas Butter Scotch,Packmats - Inners,Taraka,Overseas,340,82,261,761.4,500,500,250,500,77,116,116,116,77,116,116
+R4-16-064,Rewind Hamamas Double,Packmats - Inners,Taraka,Overseas,682,73,231,730.6,500,500,250,500,77,116,77,116,77,77,116
+R4-16-068,Rewind Kulau Coconut Milk 50g,Packmats - Inners,Taraka,Overseas,171,113,360,860.4,500,500,250,500,151,0,151,0,151,151,0
+R4-16-070,Rewind Pop Corn 5000Pcs/Ctn,Packmats - Inners,Taraka,Overseas,649,533,1693,2693.1,500,2500,250,500,691,634,634,691,749,864,691
+R4-16-071,Rewind Sweet Heart Chocolate,Packmats - Inners,Taraka,Overseas,2015,54,170,670.2,500,500,250,500,71,71,71,71,71,71,71
+R4-16-072,Rewind Sweet Heart Vanilla,Packmats - Inners,Taraka,Overseas,1210,93,295,794.8,500,500,250,500,140,107,140,107,140,107,140
+R4-16-073,Rewind T-Shake Banana 50 x 100ml,Packmats - Inners,Taraka,Overseas,21491,36,116,615.8,500,500,250,500,0,0,0,0,0,0,49
+R4-16-074,Rewind T-Shake Chocolate 50 x 100ml,Packmats - Inners,Taraka,Overseas,27121,322,1023,1523.2,500,1500,250,500,0,0,0,0,0,0,429
+R4-16-077,Rewind Zest-I 50g 6.70kg/Roll,Packmats - Inners,Taraka,Overseas,202,46,146,646.4,500,500,250,500,69,52,46,69,69,75,58
+R4-16-078,Rewind Zest-I 8.94kg 100g Roll,Packmats - Inners,Taraka,Overseas,340,65,206,705.9,500,500,250,500,101,72,72,86,86,115,86
+R4-16-079,Rokrok 150g Rewind,Packmats - Inners,Kawai,Overseas,2657,252,801,1301.4,500,1500,250,500,420,282,328,352,399,328,328
+R4-16-080,Scotch Finger 200g Rewind,Packmats - Inners,Kawai,Overseas,1534,73,233,733.2,500,500,250,500,87,87,128,64,128,50,128
+R4-16-082,Scotch Finger 50g Rewind,Packmats - Inners,Kawai,Overseas,2241,148,471,970.8,500,1000,250,500,166,181,223,223,112,223,223
+R4-16-084,Scotch Finger Choc Coated 40g Rewind,Packmats - Inners,Kawai,Overseas,532,19,59,559.1,500,500,250,500,12,25,25,25,25,0,25
+R4-16-085,Smart Start 70g Rewind,Packmats - Inners,Kawai,Overseas,1115,248,787,1286.5,500,1500,250,500,402,330,264,330,396,330,330
+R4-16-086,Snack Delight 34g Rewind,Packmats - Inners,Kawai,Overseas,53,89,283,782.6,500,500,250,500,95,105,121,121,121,121,121
+R4-16-088,Tiny Teddy Chocolate 75g Rewind,Packmats - Inners,Kawai,Overseas,801,89,282,781.6,500,500,250,500,107,107,134,134,67,134,134
+R4-16-089,Tiny Teddy Chocolate Chip 75g Rewind,Packmats - Inners,Kawai,Overseas,179,79,252,752.1,500,500,250,500,94,100,134,134,67,134,67
+R4-16-090,Tropice Raspberry Rewind,Packmats - Inners,Taraka,Overseas,415,72,229,728.8,500,500,250,500,115,58,115,115,58,115,115
+R4-16-091,Rewind T-Shake Chocolate 36 x 230ml,Packmats - Inners,Taraka,Overseas,7776,205,650,1150.1,500,1000,250,500,234,351,234,234,351,234,234
+R4-16-092,Rewind T-Shake Strawberry 36 x 230ml,Packmats - Inners,Taraka,Overseas,1955,132,418,917.9,500,1000,250,500,117,234,117,234,117,234,117
+R4-16-093,Rewind T-Shake Vanilla 36 x 230ml,Packmats - Inners,Taraka,Overseas,4729,231,734,1233.7,500,1500,250,500,234,351,234,234,292,292,444
+R4-16-098,Wopa 125g Rewind,Packmats - Inners,Kawai,Overseas,17826,209,664,1163.5,500,1000,250,500,278,278,278,209,278,348,278
+R4-16-100,Rewind Kools Cola 10G,Packmats - Inners,Taraka,Overseas,2572,666,2116,3116.4,500,3000,250,500,720,936,720,792,1008,1008,864
+R4-16-101,Rewind Kools Orange 10G,Packmats - Inners,Taraka,Overseas,670,174,553,1053.2,500,1000,250,500,127,190,253,190,253,317,190
+R4-16-102,Rewind Kools Tropical 10G,Packmats - Inners,Taraka,Overseas,2854,150,478,977.7,500,1000,250,500,127,127,190,190,253,253,190
+R4-16-103,Rewind Kools Raspberry 10G,Packmats - Inners,Taraka,Overseas,2100,1323,4204,6204.2,500,6000,250,500,2196,1512,1512,1656,2088,2088,1728
+R4-16-104,Rewind Kools Pineapple 10G,Packmats - Inners,Taraka,Overseas,2425,182,578,1078.3,500,1000,250,500,190,190,253,190,317,253,253
+R4-16-116,Gala LikLik Tshake Vanilla 75ml Rewind,Packmats - Inners,Taraka,Overseas,2053,201,640,1139.5,500,1000,250,500,210,280,280,280,280,350,140
+R4-16-117,Gala LikLik Tshake Chocolate 75ml Rewind,Packmats - Inners,Taraka,Overseas,7210,543,1724,2723.9,500,2500,250,500,770,770,700,770,700,1050,350
+R4-16-118,Gala LikLik Tshake Strawberry 75ml Rewind,Packmats - Inners,Taraka,Overseas,6709,70,222,722.4,500,500,250,500,210,70,140,70,70,140,70
+R4-16-119,Gala LikLik Tshake Banana 75ml Rewind,Packmats - Inners,Taraka,Overseas,2316,210,667,1167.3,500,1000,250,500,0,140,350,280,350,420,140
+R4-16-120,Chocolate Cookies 100g Rewind,Packmats - Inners,Kawai,Overseas,676,63,201,700.5,500,500,250,500,54,63,90,90,0,90,90
+R5-10-002,Arrow Chicken 40 x 85g Carton,Packmats - Outers,Kawai,Local,9675,8662,10971,22971.4,1000,6000,500,1000,10499,12599,10499,12599,12599,10499,10499
+R5-10-006,Carton 111 Brand 15kg,Packmats - Outers,Taraka,Local,9879,575,728,1728.3,1000,1000,500,1000,800,800,800,800,600,800,800
+R5-10-011,Carton Generic Tanubada 36 x 230ml,Packmats - Outers,Taraka,Local,6400,6475,8202,17201.7,1000,5000,500,1000,7000,11200,7000,8400,9100,9100,7000
+R5-10-015,Carton Kulau Coconut Milk 50g,Packmats - Outers,Taraka,Local,868,225,285,1285.0,1000,1000,500,1000,300,0,300,0,300,300,0
+R5-10-016,Carton Liklik T-Shake 50 x 100ml,Packmats - Outers,Taraka,Local,14900,7575,9595,20595.0,1000,5000,500,1000,0,0,0,0,0,0,10100
+R5-10-017,Carton New Classic 12 x 1L,Packmats - Outers,Taraka,Local,2000,2279,2886,6886.4,1000,2000,500,1000,3000,2400,3600,3230,2400,3600,3000
+R5-10-019,Carton Outer 2 x 16 L,Packmats - Outers,Taraka,Local,21975,18956,24011,50011.3,1000,12000,500,1000,24430,23510,26270,24430,22590,26270,28580
+R5-10-020,Carton Outer 4 x 5 L,Packmats - Outers,Taraka,Local,2950,450,570,1570.0,1000,1000,500,1000,0,0,480,480,0,480,960
+R5-10-021,carton Outer Stickline,Packmats - Outers,Taraka,Local,7019,5641,7145,15145.0,1000,4000,500,1000,6498,8199,6507,8109,6876,7281,8154
+R5-10-022,Carton Pop Corn 12 x 375g,Packmats - Outers,Taraka,Local,10343,11100,14060,29060.0,1000,7000,500,1000,14400,13200,13200,14400,15600,18000,14400
+R5-10-023,carton Sundae,Packmats - Outers,Taraka,Local,5700,4620,5852,12852.0,1000,3000,500,1000,6600,5940,6600,6600,5280,5940,6600
+R5-10-024,Carton Zest-I 120 x 50g,Packmats - Outers,Taraka,Local,1175,480,608,1608.0,1000,1000,500,1000,720,540,480,720,720,780,600
+R5-10-025,Carton Zest-I 60 x 100g,Packmats - Outers,Taraka,Local,2175,540,684,1684.0,1000,1000,500,1000,840,600,600,720,720,960,720
+R5-10-027,Choc Mint Cream 15 x 125g Carton,Packmats - Outers,Kawai,Local,2252,181,229,1228.7,1000,1000,500,1000,241,241,241,0,241,241,241
+R5-10-028,Choc Mint Cream 30 x 60g Carton,Packmats - Outers,Kawai,Local,2154,219,278,1277.9,1000,1000,500,1000,251,251,251,251,251,501,251
+R5-10-029,Chocolate Chip Cookies 100g Carton,Packmats - Outers,Kawai,Local,8346,1323,1676,3676.2,1000,1000,500,1000,1126,1314,1877,1877,0,1877,1877
+R5-10-030,Chocolate Cream 63 x 60g Carton,Packmats - Outers,Kawai,Local,2757,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-032,Cream Cracker 40 x 75g Carton,Packmats - Outers,Kawai,Local,4600,6765,8569,18568.9,1000,5000,500,1000,8659,8659,8659,8659,10824,10824,6494
+R5-10-034,Em Nau Beef & Onion 40 x 85g Carton,Packmats - Outers,Kawai,Local,13025,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-035,Em Nau Beef & Tomato 40 x 85g Carton,Packmats - Outers,Kawai,Local,54805,20075,25429,52428.6,1000,13000,500,1000,27471,29585,27471,27471,23245,29585,23245
+R5-10-036,Em Nau Beef 40 x 85g Carton,Packmats - Outers,Kawai,Local,32396,2906,3680,7680.5,1000,2000,500,1000,4226,4226,4226,4226,2113,4226,4226
+R5-10-037,Em Nau Chicken 40 x 85g Carton,Packmats - Outers,Kawai,Local,34161,4491,5688,11688.0,1000,3000,500,1000,6340,6340,6340,6340,6340,8453,2113
+R5-10-039,Generic Carton 12 x 2L Gala,Packmats - Outers,Taraka,Local,5600,1650,2089,5089.4,1000,2000,500,1000,2418,1757,2418,2587,1757,2418,2259
+R5-10-042,Hi-Way Beef 24 x 140g Carton,Packmats - Outers,Kawai,Local,17537,4142,5246,11246.1,1000,3000,500,1000,3898,5847,5847,5847,5847,5847,3898
+R5-10-044,Hi-Way Hardman 24 x 125g Carton,Packmats - Outers,Kawai,Local,33284,1646,2085,5085.2,1000,2000,500,1000,1881,1881,1881,1881,3763,1881,1881
+R5-10-045,I/C Cone carton 400s,Packmats - Outers,Taraka,Local,2575,2763,3499,7499.2,1000,2000,500,1000,3900,3250,3380,3640,3770,4550,3510
+R5-10-045,I/C Cone carton 400s,Packmats - Outers,Kawai,Local,3937,3519,4457,9457.4,1000,3000,500,1000,5152,4600,4416,4784,4968,4968,4416
+R5-10-046,I/C Cone Retail Pack carton 16 x 21s,Packmats - Outers,Taraka,Local,24949,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-046,I/C Cone Retail Pack carton 16 x 21s,Packmats - Outers,Kawai,Local,3316,70,88,1088.4,1000,1000,500,1000,124,62,62,124,124,62,124
+R5-10-047,Inner Pad Party Pack 8L,Packmats - Outers,Taraka,Local,0,885,1121,3121.0,1000,1000,500,1000,1180,1180,1180,1180,1180,1180,0
+R5-10-049,Kokonut Kina 20 x 100g Carton,Packmats - Outers,Kawai,Local,3010,1298,1644,3644.1,1000,1000,500,1000,1408,1584,1760,1760,1760,1760,1760
+R5-10-050,Kokonut Kina 20 x 200g Carton,Packmats - Outers,Kawai,Local,2499,781,989,2989.3,1000,1000,500,1000,880,968,1760,880,880,880,880
+R5-10-053,Nambawan 56 x 100g Carton,Packmats - Outers,Kawai,Local,6030,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-054,Orange Slice Cream 15 x 125g Carton,Packmats - Outers,Kawai,Local,2218,311,394,1394.5,1000,1000,500,1000,498,249,498,498,498,249,498
+R5-10-055,Orange Slice Cream 30 x 60g Carton,Packmats - Outers,Kawai,Local,124,454,575,1575.4,1000,1000,500,1000,779,519,519,519,779,519,779
+R5-10-057,Oro Chocolate Cream 30 x 60g Carton,Packmats - Outers,Kawai,Local,2545,3107,3936,8935.5,1000,2000,500,1000,4824,5736,1912,5736,3824,3824,3824
+R5-10-058,Oro Cream Biscuit 15 x 125g Carton,Packmats - Outers,Kawai,Local,4355,2063,2613,5613.5,1000,2000,500,1000,3620,3668,1834,1834,3668,1834,3668
+R5-10-059,Outer Ctn Party Pack 2 x 8L,Packmats - Outers,Taraka,Local,675,443,561,1560.5,1000,1000,500,1000,590,590,590,590,590,590,0
+R5-10-060,Paradise Beef Cracker 56 x 100g Carton,Packmats - Outers,Kawai,Local,883,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-061,Peanut Cookies 20 x 100g Carton,Packmats - Outers,Kawai,Local,3965,2117,2681,5680.9,1000,2000,500,1000,2652,2652,4080,2040,2040,4080,2040
+R5-10-062,Peanut Cookies 20 x 200g Carton,Packmats - Outers,Kawai,Local,3311,1211,1534,3534.3,1000,1000,500,1000,1530,1530,2040,1020,2040,2040,1020
+R5-10-063,QE Cocoa Powder 10 kg Carton,Packmats - Outers,Kawai,Local,5320,415,525,1525.4,1000,1000,500,1000,381,662,664,564,664,100,664
+R5-10-064,QE Cocoa Powder 12 x 400g Carton,Packmats - Outers,Kawai,Local,610,244,309,1308.8,1000,1000,500,1000,300,300,300,300,450,300,300
+R5-10-065,QE Choc Cookies 20 x 100g Carton,Packmats - Outers,Kawai,Local,7735,1323,1676,3676.2,1000,1000,500,1000,1126,1314,1877,1877,0,1877,1877
+R5-10-066,QE Cocoa Butter 25kg Carton,Packmats - Outers,Kawai,Local,330,143,181,1180.5,1000,1000,500,1000,180,180,180,180,240,180,180
+R5-10-067,QE Cocoa Mass 25kg Carton,Packmats - Outers,Kawai,Local,0,143,181,1180.5,1000,1000,500,1000,190,190,0,190,190,190,0
+R5-10-068,QE Dark Choc Button 10kg Carton,Packmats - Outers,Kawai,Local,2190,10,13,1012.7,1000,1000,500,1000,10,10,20,10,10,20,10
+R5-10-070,QE Dark Chocolate Chips 10 kg Carton,Packmats - Outers,Kawai,Local,150,80,101,1100.9,1000,1000,500,1000,38,126,107,76,126,126,76
+R5-10-071,QE Generic Carton (Catering & Bulk Pack),Packmats - Outers,Kawai,Local,550,11,14,1014.3,1000,1000,500,1000,10,10,20,10,10,30,10
+R5-10-073,QE Milk Chocolate 6 x 24 x 70g Carton,Packmats - Outers,Kawai,Local,2718,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-074,QE Milk Chocolate 6 x 42 x 15g Carton,Packmats - Outers,Kawai,Local,0,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-075,QE Milk Chocolate Chips 10 kg Carton,Packmats - Outers,Kawai,Local,1350,13,17,1016.6,1000,1000,500,1000,15,15,15,15,15,30,15
+R5-10-076,QE Pikinini Dark Chocolate 6 x 42 x 15g Carton,Packmats - Outers,Kawai,Local,525,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-077,QE Pikinini Dark Chocolate 6 x 48 x 35g Carton,Packmats - Outers,Kawai,Local,95,38,48,1047.5,1000,1000,500,1000,50,0,50,0,50,50,0
+R5-10-078,QE Pikinini Milk Chocolate 6 x 48 x 35g Carton,Packmats - Outers,Kawai,Local,2000,38,48,1047.5,1000,1000,500,1000,0,50,50,0,50,50,0
+R5-10-079,QE Prem Dark Chocolate 12 x 18 x 10g Outer Carton,Packmats - Outers,Kawai,Local,1713,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-080,QE Prem Kokoda Dark Choc 12 x 18 x 10g Outer Ctn,Packmats - Outers,Kawai,Local,400,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-081,QE Premium Milk Chocolate 12 x 18 x 10g Carton,Packmats - Outers,Kawai,Local,700,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-082,QE Premium White Chocolate 12 x 18 x 10g Carton,Packmats - Outers,Kawai,Local,1500,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-083,QE Pure Dark Choc - 75% Cocoa 6 x 24 x 70g Carton,Packmats - Outers,Kawai,Local,250,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-084,QE Roasted Cocoa Nibs 10kg Carton,Packmats - Outers,Kawai,Local,676,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-085,QE White Chocolate 6 x 42 x 15g Carton,Packmats - Outers,Kawai,Local,0,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-086,Rokrok 20 x 150g Carton,Packmats - Outers,Kawai,Local,7281,5483,6945,14944.5,1000,4000,500,1000,9140,6120,7140,7650,8670,7140,7140
+R5-10-087,Scotch Finger 20 x 200g Carton,Packmats - Outers,Kawai,Local,26,1529,1937,4936.9,1000,1000,500,1000,1816,1816,2676,1338,2676,1051,2676
+R5-10-088,Scotch Finger 60 x 50g Carton,Packmats - Outers,Kawai,Local,4749,2367,2998,6997.9,1000,2000,500,1000,2646,2887,3566,3566,1783,3566,3566
+R5-10-089,Scotch Finger Biscuits Catering 60 x 34g Carton,Packmats - Outers,Kawai,Local,237,1647,2086,5086.2,1000,2000,500,1000,1760,1936,2248,2248,2248,2248,2248
+R5-10-090,Scotch Finger Chocolate Coated 40 x 40g Carton,Packmats - Outers,Kawai,Local,1100,423,535,1535.4,1000,1000,500,1000,281,562,564,564,564,0,564
+R5-10-091,Smart Start 40 x 70g Carton,Packmats - Outers,Kawai,Local,9906,5625,7125,15125.0,1000,4000,500,1000,9125,7500,6000,7500,9000,7500,7500
+R5-10-092,Spice Jars - Dc Tray,Packmats - Outers,Taraka,Local,21300,17600,22293,46293.3,1000,11000,500,1000,24400,21200,20150,25650,23950,27500,22350
+R5-10-094,Tiny Teddy Choc Chip 40 x 75g Carton,Packmats - Outers,Kawai,Local,1543,1240,1570,3570.4,1000,1000,500,1000,1462,1566,2088,2088,1044,2088,1044
+R5-10-095,Tiny Teddy Chocolate 40 x 75g Carton,Packmats - Outers,Kawai,Local,7392,1385,1754,3753.9,1000,1000,500,1000,1672,1672,2090,2090,1045,2090,2090
+R5-10-107,Wopa 50 x 125g Carton,Packmats - Outers,Kawai,Local,15225,2983,3778,7778.3,1000,2000,500,1000,3977,3977,3977,2983,3977,4971,3977
+R5-10-110,Laga Stik Assorted Carton,Packmats - Outers,Taraka,Local,6435,20100,25460,52460.0,1000,13000,500,1000,30000,20400,30000,22800,25200,33600,28800
+R5-10-111,Laga Stik Raspberry Carton,Packmats - Outers,Taraka,Local,16734,900,1140,3140.0,1000,1000,500,1000,0,1200,0,1200,0,1200,0
+R5-10-113,Carton Kools Orange 4x60x10g,Packmats - Outers,Taraka,Local,32600,825,1045,3045.0,1000,1000,500,1000,600,900,1200,900,1200,1500,900
+R5-10-114,Carton Kools Tropical 4x60x10g,Packmats - Outers,Taraka,Local,5375,713,903,1902.5,1000,1000,500,1000,600,600,900,900,1200,1200,900
+R5-10-115,Carton Kools Raspberry 4x60x10g,Packmats - Outers,Taraka,Local,2550,5513,6983,14982.5,1000,4000,500,1000,9150,6300,6300,6900,8700,8700,7200
+R5-10-116,Carton Kools Pineapple 4x60x10g,Packmats - Outers,Taraka,Local,15400,863,1093,3092.5,1000,1000,500,1000,900,900,1200,900,1500,1200,1200
+R5-10-117,Carton Kools Cola 4x60x10g,Packmats - Outers,Taraka,Local,10900,2775,3515,7515.0,1000,2000,500,1000,3000,3900,3000,3300,4200,4200,3600
+R5-10-119,Generic Gala LikLik Tshake 50x 75ml Carton,Packmats - Outers,Taraka,Local,25327,14625,18525,38525.0,1000,10000,500,1000,17000,18000,21000,20000,20000,28000,10000
+R5-10-125,QE Milk Chocolate Button 10kg Carton,Packmats - Outers,Kawai,Local,1140,8,10,1009.5,1000,1000,500,1000,0,0,0,0,0,10,0
+R5-10-128,QE Cocoa Mass Pieces 25kg Carton,Packmats - Outers,Kawai,Local,0,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-129,QE Cocoa Butter Pieces 25kg Carton,Packmats - Outers,Kawai,Local,2280,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-130,Weave Cacao 70% 20kg Carton,Packmats - Outers,Kawai,Local,276,26,32,1032.5,1000,1000,500,1000,30,40,25,35,35,40,30
+R5-10-131,Weave Cacao 58% 20kg Carton,Packmats - Outers,Kawai,Local,386,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R5-10-144,Chocolate Cookies 20 x 100g Carton,Packmats - Outers,Kawai,Local,4164,0,0,0.0,1000,0,500,1000,0,0,0,0,0,0,0
+R6-07-004,Nitrogen Gas G Size,Consumables,Taraka,Local,0,10,43,93.4,50,50,25,50,13,0,13,0,13,13,0
+R6-07-005,Packaging Clear Tape 1000m,Consumables,Kawai,Local,42000,67888,85991,181991.1,6000,48000,3000,6000,94598,89284,88125,92020,91328,98680,83663
+R6-07-015,Packaging Clear Tape 75m,Consumables,Taraka,Local,129600,60895,77134,159134.1,1000,38000,500,1000,80888,72197,81740,78085,80208,99939,74993
