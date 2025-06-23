@@ -66,7 +66,7 @@ if uploaded_file:
     df["Suggested Reorder Qty"] = df.apply(suggest_reorder, axis=1)
 
     display_cols = ["SKU Code", "SKU Description", "SKU Category", "Site", "Source", "SOH", "Status", "Suggested Reorder Qty", "Next PO Arrival", "PO Mitigates OOS?"]
-    
+
     # ---- Purchase Order Integration ----
     po_info = None
     if uploaded_po_file:
@@ -85,6 +85,8 @@ if uploaded_file:
         df_po['Order Qty'] = pd.to_numeric(df_po['Order Qty'], errors='coerce')
         # Drop rows with missing key info
         df_po = df_po.dropna(subset=['SKU Code', 'Expected Delivery Date'])
+        # Only keep relevant columns
+        df_po = df_po[['SKU Code', 'Order Qty', 'Expected Delivery Date']]
         # For each SKU, find the earliest PO arrival
         po_next_arrival = df_po.groupby('SKU Code')['Expected Delivery Date'].min().to_dict()
         po_next_qty = df_po.groupby('SKU Code')['Order Qty'].sum().to_dict()
@@ -139,7 +141,7 @@ if uploaded_file:
     st.plotly_chart(fig, use_container_width=True)
 
     # ---- Table Styling
-    df_display = df[[col for col in display_cols if col in df.columns]]
+    df_display = df[display_cols]
 
     st.subheader("📦 Inventory Table with Color Coding")
     table_height = min(600, 40 + 30 * len(df_display))  # Dynamic height
