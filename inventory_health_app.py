@@ -116,12 +116,12 @@ if uploaded_file:
         df['Next PO Qty'] = df.apply(get_next_po_qty, axis=1)
         # Determine if PO mitigates OOS
         def mitigates_oos(row):
-            if row['Runout Period'] is None or pd.isna(row['Next PO Arrival']):
-                return None
+            if pd.isna(row['Runout Period']) or pd.isna(row['Next PO Arrival']):
+                return 'N/A'
             # Assume forecast period is 1 week, and first forecast col is next week
             from datetime import datetime, timedelta
             today = pd.Timestamp.today().normalize()
-            runout_date = today + pd.Timedelta(weeks=row['Runout Period'])
+            runout_date = today + pd.Timedelta(weeks=float(row['Runout Period']))
             if row['Next PO Arrival'] <= runout_date:
                 return 'Yes'
             else:
