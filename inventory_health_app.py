@@ -120,7 +120,11 @@ if uploaded_file:
             # Assume forecast period is 1 week, and first forecast col is next week
             from datetime import datetime, timedelta
             today = pd.Timestamp.today().normalize()
-            runout_date = today + pd.Timedelta(weeks=row['Runout Period'])
+            try:
+                runout_weeks = int(row['Runout Period'])
+                runout_date = today + pd.Timedelta(weeks=runout_weeks)
+            except (ValueError, TypeError):
+                return None
             if row['Next PO Arrival'] <= runout_date:
                 return 'Yes'
             else:
