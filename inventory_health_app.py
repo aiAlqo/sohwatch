@@ -65,6 +65,8 @@ if uploaded_file:
     df["Status"] = df.apply(assess_status, axis=1)
     df["Suggested Reorder Qty"] = df.apply(suggest_reorder, axis=1)
 
+    display_cols = ["SKU Code", "SKU Description", "SKU Category", "Site", "Source", "SOH", "Status", "Suggested Reorder Qty", "Next PO Arrival", "PO Mitigates OOS?"]
+    
     # ---- Purchase Order Integration ----
     po_info = None
     if uploaded_po_file:
@@ -122,7 +124,6 @@ if uploaded_file:
             else:
                 return 'No'
         df['PO Mitigates OOS?'] = df.apply(mitigates_oos, axis=1)
-        display_cols = ["SKU Code", "SKU Description", "SKU Category", "Site", "Source", "SOH", "Status", "Suggested Reorder Qty", "Next PO Arrival", "PO Mitigates OOS?"]
 
     # ---- Pie Chart
     status_colors = {
