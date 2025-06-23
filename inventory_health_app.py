@@ -65,7 +65,8 @@ if uploaded_file:
     df["Status"] = df.apply(assess_status, axis=1)
     df["Suggested Reorder Qty"] = df.apply(suggest_reorder, axis=1)
 
-    display_cols = ["SKU Code", "SKU Description", "SKU Category", "Site", "Source", "SOH", "Status", "Suggested Reorder Qty", "Next PO Arrival", "PO Mitigates OOS?"]
+    # Base display columns without PO info
+    display_cols = ["SKU Code", "SKU Description", "SKU Category", "Site", "Source", "SOH", "Status", "Suggested Reorder Qty"]
 
     # ---- Purchase Order Integration ----
     po_info = None
@@ -120,16 +121,15 @@ if uploaded_file:
             # Assume forecast period is 1 week, and first forecast col is next week
             from datetime import datetime, timedelta
             today = pd.Timestamp.today().normalize()
-            try:
-                runout_weeks = int(row['Runout Period'])
-                runout_date = today + pd.Timedelta(weeks=runout_weeks)
-            except (ValueError, TypeError):
-                return None
+            runout_date = today + pd.Timedelta(weeks=row['Runout Period'])
             if row['Next PO Arrival'] <= runout_date:
                 return 'Yes'
             else:
                 return 'No'
         df['PO Mitigates OOS?'] = df.apply(mitigates_oos, axis=1)
+        
+        # Add PO columns to display only if PO file is uploaded
+        display_cols.extend(['Next PO Arrival', 'PO Mitigates OOS?'])
 
     # ---- Pie Chart
     status_colors = {
