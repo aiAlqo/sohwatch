@@ -139,7 +139,7 @@ if uploaded_file:
     st.plotly_chart(fig, use_container_width=True)
 
     # ---- Table Styling
-    df_display = df[display_cols]
+    df_display = df[[col for col in display_cols if col in df.columns]]
 
     st.subheader("📦 Inventory Table with Color Coding")
     table_height = min(600, 40 + 30 * len(df_display))  # Dynamic height
