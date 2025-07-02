@@ -33,6 +33,9 @@ if uploaded_file:
     else:
         df = pd.read_excel(uploaded_file)
 
+    # 🟢 Fix column name spacing
+    df.columns = df.columns.str.strip()
+
     required_cols = [
         "SKU Code", "SKU Description", "SKU Category", "Site", "Source",
         "SOH", "Safety Stock", "Min Qty", "Max Qty",
